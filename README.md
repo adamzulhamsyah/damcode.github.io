@@ -1,1 +1,1 @@
-Program Penjualan buah dengan struct c++
+Program Penjualan buah dengan bahasa c++
